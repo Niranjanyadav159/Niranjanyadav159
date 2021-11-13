@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niranjanyadav159
+- 👋 Hi, I’m @Niranjan_Yadav
 - 👀 I’m interested in ... 'Machine learning','Artificial intelligence","Data Analytics"
 - 🌱 I’m currently learning ..."Artificial Intelligence","Machine learning"
 - 📫 I'm a Final year ........ "Btech (Computer Science) Student"
